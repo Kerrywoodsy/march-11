@@ -1,0 +1,11 @@
+
+.card {margin-top:-20px;}
+.navbar{height: 40rem;}
+.item1 {  position: absolute;
+    background-image: url("/doc4.jpg"); 
+    background-repeat:  no-repeat;
+    background-size: cover;
+padding: 40px;
+
+
+}
